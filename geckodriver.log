@@ -1,0 +1,32 @@
+1558867306767	mozrunner::runner	INFO	Running command: "c:\\Program Files (x86)\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\789\\AppData\\Local\\Temp\\rust_mozprofile.bP9VcPn2MBWn"
+1558867309296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558867309296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558867309296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558867315390	Marionette	INFO	Listening on port 42971
+1558867315817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558867320809	Marionette	INFO	Stopped listening on port 42971
+[Child 13600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1557425037/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13600[Parent 16520, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1557425037/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1557425037/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 112, Ch[GPU
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558867584863	mozrunner::runner	INFO	Running command: "c:\\Program Files (x86)\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\789\\AppData\\Local\\Temp\\rust_mozprofile.BNBU2zi2UIp7"
+1558867585547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558867585548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558867585548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558867588853	Marionette	INFO	Listening on port 43277
+1558867589183	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558867594917	Marionette	INFO	Stopped listening on port 43277
+[Child 14884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1557425037/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14884[Child 15324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1557425037/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15324, Chrome_ChildThrea[Child 16960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1557425037/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1696[GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
